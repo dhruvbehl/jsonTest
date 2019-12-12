@@ -9,15 +9,15 @@
 			"debugFlag": ["FAIL", "PASS", "LOGIN"]
 		},
 		{
-			"ipAddress": "10.1.2.40",
+			"ipAddress": "10.4.3.102",
 			"debugFlag": ["FAIL", "PASS", "LOGIN"]
 		},
 		{
-			"ipAddress": "10.1.2.40",
+			"ipAddress": "10.5.3.140",
 			"debugFlag": ["FAIL", "PASS", "LOGIN"]
 		},
 		{
-			"ipAddress": "10.1.2.40",
+			"ipAddress": "10.1.2.45",
 			"debugFlag": ["FAIL", "PASS", "LOGIN"]
 		}
 	]
