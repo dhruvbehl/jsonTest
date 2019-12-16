@@ -10,7 +10,7 @@
 		},
 		{
 			"ipAddress": "10.4.3.102",
-			"debugFlag": ["FAIL", "PASS", "LOGIN"]
+			"debugFlag": ["PASS"]
 		},
 		{
 			"ipAddress": "10.5.3.140",
